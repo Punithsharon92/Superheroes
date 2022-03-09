@@ -1,0 +1,144 @@
+[
+    {
+        "superhero": "बैटमैन",
+        "publisher": "डीसी कॉमिक्स",
+        "alter_ego": "ब्रूस वेन",
+        "first_appearance": "डिटेक्टिव कॉमिक्स #27",
+        "characters": "ब्रूस वेन"
+    },
+    {
+        "superhero": "सुपरमैन",
+        "publisher": "डीसी कॉमिक्स",
+        "alter_ego": "कल-एल",
+        "first_appearance": "एक्शन कॉमिक्स #1",
+        "characters": "कल-एल"
+    },
+    {
+        "superhero": "फ्लैश",
+        "publisher": "डीसी कॉमिक्स",
+        "alter_ego": "जे गैरिक",
+        "first_appearance":"फ्लैश कॉमिक्स #1",
+        "characters": "जे गैरिक, बैरी एलन, वैली वेस्ट, बार्ट एलन"
+    },
+    {
+        "superhero": "ग्रीन लालटेन",
+        "publisher": "डीसी कॉमिक्स",
+        "alter_ego": "एलन स्कॉट",
+        "first_appearance": "ऑल-अमेरिकन कॉमिक्स #16",
+        "characters": "एलन स्कॉट, हैल जॉर्डन, गाय गार्डनर, जॉन स्टीवर्ट, काइल रेनोर, जेड, सिनेस्ट्रो, साइमन बाज"
+    },
+  {
+    "superhero": "स्पाइडर मैन",
+    "publisher": "मार्वल कॉमिक्स",
+    "alter_ego": "पीटर पार्कर",
+    "first_appearance":"अद्भुत फैंटेसी #15",
+    "characters": "पीटर पार्कर"
+},
+{
+    "superhero": "कैप्टन अमेरिका",
+    "publisher": "मार्वल कॉमिक्स",
+    "alter_ego": "स्टीव रोजर्स",
+    "first_appearance": "कैप्टन अमेरिका कॉमिक्स #1",
+    "characters": "स्टीव रोजर्स"
+},
+{
+    "superhero": "आयरन मैन",
+    "publisher": "मार्वल कॉमिक्स",
+    "alter_ego": "टोनी स्टार्क",
+    "first_appearance": "टेल्स ऑफ़ सस्पेंस #39",
+    "characters": "टोनी स्टार्क"
+},
+{
+    "superhero": "थोर",
+    "publisher": "मार्वल कॉमिक्स",
+    "alter_ego": "थोर ओडिन्सन",
+    "first_appearance": "जर्नी इन मिस्टर #83",
+    "characters": "थोर ओडिन्सन"
+},
+  {
+      "superhero": "ग्रीन एरो",
+      "publisher": "डीसी कॉमिक्स",
+      "alter_ego": "ओलिवर क्वीन",
+      "first_appearance":"मोर फन कॉमिक्स #73",
+      "characters": "ओलिवर क्वीन"
+  },
+  {
+      "superhero": "वंडर वुमन",
+      "publisher": "डीसी कॉमिक्स",
+      "alter_ego": "राजकुमारी डायना",
+      "first_appearance": "ऑल स्टार कॉमिक्स #8",
+      "characters": "राजकुमारी डायना"
+  },
+  {
+      "superhero": "मार्टियन मैनहंटर",
+      "publisher": "डीसी कॉमिक्स",
+      "alter_ego": "J'onn J'onzz",
+      "first_appearance": "डिटेक्टिव कॉमिक्स #225",
+      "characters": "मार्टियन मैनहंटर"
+  },
+  {
+      "superhero": "रॉबिन/नाइटविंग",
+      "publisher": "डीसी कॉमिक्स",
+      "alter_ego": "डिक ग्रेसन",
+      "first_appearance": "डिटेक्टिव कॉमिक्स #38",
+      "characters": "डिक ग्रेसन"
+  },
+  {
+      "superhero": "ब्लू बीटल",
+      "publisher": "डीसी कॉमिक्स",
+      "alter_ego": "डैन गैरेट",
+      "first_appearance": "मिस्ट्री मेन कॉमिक्स #1",
+      "characters": "डैन गैरेट, टेड कॉर्ड, जैम रेयेस"
+  },
+  {
+    "superhero": "ब्लैक कैनरी",
+    "publisher": "डीसी कॉमिक्स",
+    "Alter_ego": "दीना ड्रेक",
+    "first_appearance": "फ्लैश कॉमिक्स #86",
+    "characters": "दीना ड्रेक, दीना लांस"
+},
+
+{
+    "superhero": "हल्क",
+    "publisher": "मार्वल कॉमिक्स",
+    "alter_ego": "ब्रूस बैनर",
+    "first_appearance": "द इनक्रेडिबल हल्क #1",
+    "characters": "ब्रूस बैनर"
+},
+{
+    "superhero": "वूल्वरिन",
+    "publisher": "मार्वल कॉमिक्स",
+    "alter_ego": "जेम्स हॉवलेट",
+    "first_appearance": "द इनक्रेडिबल हल्क #180",
+    "characters": "जेम्स हॉवलेट"
+},
+{
+    "superhero": "डेयरडेविल",
+    "publisher": "मार्वल कॉमिक्स",
+    "alter_ego": "मैथ्यू माइकल मर्डॉक",
+    "first_appearance":"डेयरडेविल #1",
+    "characters": "मैथ्यू माइकल मर्डॉक"
+},
+{
+    "superhero": "हॉकी",
+    "publisher": "मार्वल कॉमिक्स",
+    "Alter_ego": "क्लिंटन फ्रांसिस बार्टन",
+    "first_appearance": "टेल्स ऑफ़ सस्पेंस #57",
+    "characters": "क्लिंटन फ्रांसिस बार्टन"
+},
+{
+    "superhero": "साइक्लोप्स",
+    "publisher": "मार्वल कॉमिक्स",
+    "alter_ego": "स्कॉट समर्स",
+    "first_appearance": "X-Men #1",
+    "characters": "स्कॉट समर्स"
+},
+{
+    "superhero": "सिल्वर सर्फर",
+    "publisher": "मार्वल कॉमिक्स",
+    "Alter_ego": "नोरिन रैड",
+    "first_appearance": "द फैंटास्टिक फोर #48",
+    "characters": "नोरिन रैड"
+}
+
+]
